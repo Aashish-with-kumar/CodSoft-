@@ -1,7 +1,7 @@
 # CodSoft-
 
 # Task 2  Simple Calculator Project
- CodSoft Python Programming Internship
+# CodSoft Python Programming Internship
 
 Project Description
 
